@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "antd": "^4.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.13.0",
     "classnames": "^2.2.6",
     "date-fns": "^2.12.0",
